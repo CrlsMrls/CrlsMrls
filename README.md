@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="./imgs/software enginner.svg" height="300" align="middle" alt="Working with computer">
 
-<!--
-**CrlsMrls/CrlsMrls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I am Carlos 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+apiVersion: v1
+kind: Person
+metadata:
+  name: Carlos Morales
+  labels:
+    location: Zürich, Swizterland
+specs:
+  jobs:
+    - company: Avaloq
+      role: UI Software Architect
+```
