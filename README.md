@@ -19,11 +19,6 @@ specs:
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Mac-blue?style=flat&logo=apple&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-
 ![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&color=6aa6f8)
