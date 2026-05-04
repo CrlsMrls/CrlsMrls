@@ -10,7 +10,7 @@ kind: Person
 metadata:
   name: Carlos Morales
   labels:
-    location: Zürich, Swizterland
+    location: Zürich, Switzerland
 specs:
   jobs:
     - company: Avaloq
